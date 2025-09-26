@@ -1,0 +1,9 @@
+nohup: ignoring input
+Database 'minimax' created or already exists.
+MiniMax database pool created successfully.
+启动MiniMax WebSocket代理服务，端口: 8766
+✓ 使用Bearer Token进行用户认证
+✓ 使用新的minimax数据库进行详细计费
+✓ 支持音色延迟计费机制
+✓ 实时字符数统计与费用计算
+✓ 详细API调用记录和账单管理

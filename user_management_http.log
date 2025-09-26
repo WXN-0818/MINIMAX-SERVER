@@ -1,0 +1,58 @@
+nohup: ignoring input
+Database 'minimax' created or already exists.
+MiniMax database pool created successfully.
+INFO:     Will watch for changes in these directories: ['/mnt/wxn/Change-API/minimax']
+INFO:     Uvicorn running on http://0.0.0.0:8021 (Press CTRL+C to quit)
+INFO:     Started reloader process [1136907] using StatReload
+INFO:     Started server process [1136924]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+WARNING:  StatReload detected changes in 'admin_query_example.py'. Reloading...
+INFO:     Shutting down
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [1136924]
+INFO:     Started server process [1137925]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+Database 'minimax' created or already exists.
+MiniMax database pool created successfully.
+Database 'minimax' created or already exists.
+MiniMax database pool created successfully.
+INFO:     127.0.0.1:38520 - "GET /admin/all_users HTTP/1.1" 200 OK
+INFO:     127.0.0.1:38522 - "GET /admin/statistics HTTP/1.1" 200 OK
+INFO:     127.0.0.1:38524 - "GET /admin/top_users?limit=5 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:38526 - "GET /admin/all_users HTTP/1.1" 200 OK
+INFO:     127.0.0.1:38528 - "GET /admin/user_calls/%E4%B9%9D%E5%B7%9E%E6%B1%87%E5%A4%A9?limit=10 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:38530 - "GET /admin/all_users HTTP/1.1" 200 OK
+INFO:     127.0.0.1:38532 - "GET /admin/statistics HTTP/1.1" 200 OK
+INFO:     127.0.0.1:38534 - "GET /admin/top_users?limit=5 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:38536 - "GET /admin/all_users HTTP/1.1" 200 OK
+INFO:     127.0.0.1:38538 - "GET /admin/user_calls/%E4%B9%9D%E5%B7%9E%E6%B1%87%E5%A4%A9?limit=10 HTTP/1.1" 200 OK
+WARNING:  StatReload detected changes in 'minimax_http_proxy.py'. Reloading...
+INFO:     Shutting down
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [1137925]
+INFO:     Started server process [1140477]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+WARNING:  Invalid HTTP request received.
+Database 'minimax' created or already exists.
+MiniMax database pool created successfully.
+Database 'minimax' created or already exists.
+MiniMax database pool created successfully.
+INFO:     104.167.221.114:34658 - "CONNECT 1.1.1.1%3A80 HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:38540 - "GET /admin/all_users HTTP/1.1" 200 OK
+INFO:     127.0.0.1:38542 - "GET /admin/statistics HTTP/1.1" 200 OK
+INFO:     127.0.0.1:38544 - "GET /admin/top_users?limit=5 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:38546 - "GET /admin/all_users HTTP/1.1" 200 OK
+INFO:     127.0.0.1:38550 - "GET /admin/user_calls/%E4%B9%9D%E5%B7%9E%E6%B1%87%E5%A4%A9?limit=10 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:38552 - "POST /register HTTP/1.1" 200 OK
+Created token1: eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyNWUxZGJiOS1mOGNkLTQxNDItOWYzMy1jODEzMzY4ZTg1MjEiLCJ1c2VyX25hbWUiOiJTdXN0YWlubm8iLCJpYXQiOjE3NTg4NzkxMDgsImV4cCI6MTgxOTM1OTEwOCwiZ3JvdXBfbmFtZSI6IiIsImdyb3VwX2lkIjoiIiwibWFpbCI6IlN1c3RhaW5ub0BleGFtcGxlLmNvbSIsInRva2VuX3R5cGUiOjEsImlzcyI6ImNsb3Vkc3dheSJ9.N0KZJGsq55dlg3pcAWM9FmS7AEHjw8vKS0LU8R5R1uOACMcgSqasKiE6wDdTk1_plOrBzLZlDf7VubMt9E9Q-UAcUb-AMIZ_yAqjO4BqHrOwyyhxzLwe9o5tezXKtAQSByaAalcIWjoSljve2e-Lr3FRBPobBjLLrDdhstT_4bjYECvYoqEKaCG8H3RqK8qhxyhbVTAXdWfgZhLgFxhi9jK8BMdpDH4sTIhydrWBOu4s-kiDDBn5Jho9vzkvtd24bNFUmQ-W9e466spnA8sS8XHHK-b4uQf_s8IOHzQ5-p7yciN01Tqg62zbw1SXySUk4n6uu76dbqvsToc-gAz4WA
+INFO:     127.0.0.1:38554 - "POST /create_token HTTP/1.1" 200 OK
+INFO:     127.0.0.1:38556 - "GET /admin/all_users HTTP/1.1" 200 OK
+INFO:     127.0.0.1:38558 - "GET /admin/statistics HTTP/1.1" 200 OK
+INFO:     127.0.0.1:38560 - "GET /admin/top_users?limit=5 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:38562 - "GET /admin/all_users HTTP/1.1" 200 OK
+INFO:     127.0.0.1:38564 - "GET /admin/user_calls/%E4%B9%9D%E5%B7%9E%E6%B1%87%E5%A4%A9?limit=10 HTTP/1.1" 200 OK
